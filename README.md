@@ -1,4 +1,4 @@
-Simple JSON Lines encoding/decoding package.
+Simple JSON Lines encoding/decoding package for Go.
 
 Using:
 ```go
